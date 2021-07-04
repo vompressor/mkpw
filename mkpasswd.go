@@ -1,4 +1,4 @@
-package github.com/vompressor/mkpw
+package mkpw
 
 import (
 	"bytes"
